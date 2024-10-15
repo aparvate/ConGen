@@ -1,0 +1,14 @@
+// This is where you can edit groups, weights and rewrites using cgg script (congen groups)
+
+// You can easily save .cgg files for use later with the "Load" and "Save" buttons.
+
+C: b, bh, d, dh, f, g, h, k, kh, l, lh, m, n, p, ph, kw, khw, r, rh, s, sh, t, th, w, x, xh, y, z, zh// Beginning consonant group
+V:  a, e, i, o, u// Vowel group
+N: s, r, l, n, m, w, x// Ending group
+ 
+// Anything after two slashes is a comment
+// Try opening intvardian.cgg for a more advanced example.
+
+aa -> ā, ee -> ē, ii -> ī, oo -> ō, uu -> ū, ai -> ae, ao -> au, ea -> ē, eo -> ē, oa -> ō, oi -> ae, ou -> au, ua -> ū, ue -> ū, uo -> ū 
+
+
